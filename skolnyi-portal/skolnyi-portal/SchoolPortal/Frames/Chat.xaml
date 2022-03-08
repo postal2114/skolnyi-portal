@@ -12,7 +12,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="49*"/>
             <RowDefinition Height="339*"/>
-            <RowDefinition Height="62*"/>
+            <RowDefinition Height="62*"/> 
         </Grid.RowDefinitions>
         <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" x:Name="Nameq"></TextBlock>
         <StackPanel Grid.Row="2" Orientation="Horizontal">
