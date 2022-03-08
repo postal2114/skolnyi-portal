@@ -11,6 +11,7 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
+                
         </Grid.RowDefinitions>
         <TextBlock FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center">Введите оценку:</TextBlock>
         <TextBox x:Name="TBoxMark" Grid.Row="1" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Width="50" HorizontalContentAlignment="Center"/>
