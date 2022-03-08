@@ -53,7 +53,7 @@ namespace SchoolPortal.Models
             }
         }
     }
-
+ 
     public class Thursday
     {
         public int Сount { get; set; }
