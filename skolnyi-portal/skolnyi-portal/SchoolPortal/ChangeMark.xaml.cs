@@ -32,7 +32,9 @@ namespace SchoolPortal
             }
             else
             {
+            
                 MessageBox.Show("Оценка должна быть одной из: 2, 3, 4, 5, Н");
+                
             }
 
         }
