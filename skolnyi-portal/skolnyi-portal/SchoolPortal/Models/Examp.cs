@@ -10,7 +10,7 @@ namespace SchoolPortal.Models
     internal class Examp
     {
         public int Id { get; set; }
-        public string Mark { get; set; }
+        public string Mark { get; set; } 
         public SolidColorBrush Color
         {
             get
