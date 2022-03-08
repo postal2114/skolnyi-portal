@@ -22,7 +22,7 @@ namespace SchoolPortal
         public Window1()
         {
             InitializeComponent();
-            
+           
         }
     }
 }
