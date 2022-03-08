@@ -10,6 +10,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="59*"/>
             <RowDefinition Height="949*"/>
+                
         </Grid.RowDefinitions>
         <Frame NavigationUIVisibility="Hidden" ContentRendered="frame_ContentRendered" Grid.Row="1" Name="frame" Margin="0,18,0,0" ></Frame>
         <Button Name="Back" Click="Button_Click" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="18" Width="100" Height="28">Назад</Button>
