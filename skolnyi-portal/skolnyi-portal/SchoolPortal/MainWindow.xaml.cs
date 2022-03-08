@@ -44,7 +44,9 @@ namespace SchoolPortal
             }
             else
             {
+            
                 Back.Visibility = Visibility.Visible;
+                
             }
         }
     }
