@@ -10,7 +10,7 @@ namespace SchoolPortal.Models
     internal class ExampleMark
     {
         public string Lesson { get; set; }
-        public List<Examp> Mark { get; set; }
+        public List<Examp> Mark { get; set; } 
         public double Midle { get; set; }
         public SolidColorBrush Color
         {
